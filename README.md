@@ -88,7 +88,6 @@ Optimizes AP placement by positioning them at the centroid of coverage regions a
 * Nagireddy Subbareddy
 * Boilla Sai Tejeswara Reddy
 * Sandu Tharun
-* Dr. Pratham Majumder
 
 
 ## ⭐ Contribution
